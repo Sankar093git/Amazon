@@ -356,8 +356,14 @@ footer{
     border-color:#3a4553;   
 }
 .prefooterb{
-    background:#232F3E
+    background:#232F3E;
+    display: flex;
+    align-items:flex-end;
 }
 .footerlogo img{
     width:80px;
+}
+.fcontent{
+    display:flex;
+    align-items:center;
 }
